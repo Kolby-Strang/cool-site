@@ -16,11 +16,6 @@ nav {
     padding: 2em;
 }
 
-nav>p {
-    color: blue;
-    text-decoration: underline;
-}
-
 img {
     max-width: 35vw;
 }
