@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+button {
+    background-color: #061130;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: .5em 1em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 2em;
+}
+
+nav>p {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    max-width: 35vw;
+}
+
+header {
+    color: white;
+    background-color: #061130;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1em;
+}
+
+footer {
+    background-color: #f0f3f3;
+    padding: 2em;
+    text-align: center;
+}
+
+.hero-container {
+    color: white;
+    background-color: #061130;
+    padding: 3em 15em;
+    display: flex;
+}
+
+.chat-button {
+    background-color: #1c4bc4;
+}
+
+.services {
+    color: #fafd61;
+}
